@@ -1,0 +1,46 @@
+{
+    "name": "Labyrinth",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.44",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#1b0f28",
+        "#4c6684",
+        "#83bfca",
+        "#f4f9e6",
+        "#233e38",
+        "#357b45",
+        "#f2e05a",
+        "#312039",
+        "#6e2745",
+        "#c6434e",
+        "#e7937e",
+        "#544242",
+        "#9e523b",
+        "#e98549",
+        "#EAEAEA"
+    ]
+}
